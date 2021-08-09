@@ -1,0 +1,14 @@
+Java 7: Switch case'de string kullanimi, diamond operatoru
+java 8: Stream api, Lambda expressions,
+Java 9: JavaShell, HTTP/2 Client
+Java 10: var, copyOf(Collection) 
+Java 11: String(isBlank, lines, strip, repeat), readString, writeString, isSameFile
+Java 12: String(indent, transform, describeConstable, resolveConstantDesc)
+Java 13: Reimplement the Legacy Socket API
+java.net.Socket ve java.net.ServerSocket API’lerine buyuk guncelleme geldi ve PlainSocketImpl sinifi yerine,
+gelistirmesi ve debug yapmasi daha kolay olan NioSocketImpl tanitildi.
+Java 15: Sealed Classes and Interface
+sealed(muhurlu)soz dizimi; bireysel siniflarda ve interfacelere, permits soz dizimi ile hangi siniflarin kendilerini extend veya implement ederek kullanilabilecegini bildirme izni vererek, kalitim(inheritance) 
+uzerinde erisim belirleyicilerden(access modifiers) daha iyi kontrol saglamaya imkan verir.
+Java 16: 
+Onceki versiyonlara oranla daha az yeni ozellik bulunuyor. Daha cok 15 ve 14 versiyonlarinda yayinlanan ozelliklere guncellemeler gelmis durumda.
